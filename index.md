@@ -4,7 +4,7 @@ rppUrl: https://payment.pay1.preprod.secured-by-ingenico.com/checkout/9960-91771
 
 # RPP Testing
 
-{% include rpp.html rpp=page.rppUrl %}
+{% include rpp.html url=page.rppUrl %}
 
 # Editing This
 
