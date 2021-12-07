@@ -6,6 +6,6 @@ rppUrl: https://payment.pay1.preprod.secured-by-ingenico.com/checkout/9960-91771
 
 {% include rpp.html id=page.rppUrl %}
 
-[Link](page.rppUrl)
+[Re-direct to RPP](page.rppUrl)
 
 
