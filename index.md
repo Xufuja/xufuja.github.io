@@ -4,10 +4,8 @@ rppUrl: https://payment.pay1.preprod.secured-by-ingenico.com/checkout/9960-91771
 
 # RPP Testing
 
-{% include rpp.html url=page.rppUrl %}
+{% include rpp.html id=page.rppUrl %}
 
-# Editing This
-
-[Quick Link for browser editor](https://github.com/Xufuja/xufuja.github.io/edit/master/index.md)
+[Link](page.rppUrl)
 
 
