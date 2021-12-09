@@ -4,6 +4,10 @@ rppUrl: https://payment.pay1.preprod.secured-by-ingenico.com/checkout/9960-21006
 
 ## RPP Testing
 
+### iFrame
+
 {% include rpp.html id=page.rppUrl %}
 
+### Re-direct
 
+{% include redirect.html id=page.rppUrl %}

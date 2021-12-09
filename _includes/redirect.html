@@ -1,0 +1,8 @@
+<div style="position: relative;width: 100%;overflow: hidden;padding-top: 0%;">
+   <button id="redirect" class="float-left submit-button">Go to RPP</button>
+   <script type="text/javascript">
+      document.getElementById("redirect").onclick = function () {
+          location.href = "{{ include.id }}";
+      };
+   </script>
+</div>
