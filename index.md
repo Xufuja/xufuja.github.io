@@ -1,5 +1,5 @@
 ---
-rppUrl: https://payment.pay1.preprod.secured-by-ingenico.com/checkout/9960-2db4930a535b4c07956b06b1c8851684:0621756c-c36d-71ff-9f67-01418db9b9af:026a916a21ad4eb5b71953af1ba532c8
+rppUrl: https://payment.rpp.sq-connect.gcsip.nl/checkout/9960-308d26af245b4ca883dfda95951443bc:062308cc-7ddb-71ff-8aa4-6cd2b6b09f12:d8794b77dac147f89e5521534d3e7daf
 ---
 
 ## RPP Testing
