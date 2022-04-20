@@ -12,6 +12,6 @@ rppUrl: https://payment.rpp.sq-connect.gcsip.nl/checkout/9960-308d26af245b4ca883
 
 {% include redirect.html id=page.rppUrl %}
 
-### DFP no Collector
+### DFP
 
 {% include dfp.html %}
