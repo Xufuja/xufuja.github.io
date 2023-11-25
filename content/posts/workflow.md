@@ -1,6 +1,6 @@
 +++
-title = 'Hello World'
-date = 2023-11-25T18:47:34+01:00
+title = 'Workflow'
+date = 2023-11-25T19:55:49+01:00
 #weight: 1
 #aliases: ["/first"]
 #tags = [ "first" ]
@@ -36,10 +36,6 @@ UseHugoToc = true
 #appendFilePath = true
 +++
 
-## Hello
+## GitHub Actions
 
-Testing a new static site generator, currently using the [PaperMod](https://themes.gohugo.io/themes/hugo-papermod/) theme.
-
-## Second Section
-
-Testing the layout too.
+Quick post to check whether this works correctly.
