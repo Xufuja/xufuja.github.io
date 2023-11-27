@@ -20,7 +20,7 @@ ShowReadingTime = false
 ShowBreadCrumbs = true
 ShowPostNavLinks = true
 ShowWordCount = true
-ShowRssButtonInSectionTermList = true
+ShowRssButtonInSectionTermList = false
 UseHugoToc = true
 
 #[cover]
